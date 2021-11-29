@@ -1,0 +1,10 @@
+C:\Users\ASUS Laptop\source\repos\Demo1129\Demo1129\bin\Debug\Demo1129.exe.config
+C:\Users\ASUS Laptop\source\repos\Demo1129\Demo1129\bin\Debug\Demo1129.exe
+C:\Users\ASUS Laptop\source\repos\Demo1129\Demo1129\bin\Debug\Demo1129.pdb
+C:\Users\ASUS Laptop\source\repos\Demo1129\Demo1129\obj\Debug\Demo1129.csproj.AssemblyReference.cache
+C:\Users\ASUS Laptop\source\repos\Demo1129\Demo1129\obj\Debug\Demo1129.Form1.resources
+C:\Users\ASUS Laptop\source\repos\Demo1129\Demo1129\obj\Debug\Demo1129.Properties.Resources.resources
+C:\Users\ASUS Laptop\source\repos\Demo1129\Demo1129\obj\Debug\Demo1129.csproj.GenerateResource.cache
+C:\Users\ASUS Laptop\source\repos\Demo1129\Demo1129\obj\Debug\Demo1129.csproj.CoreCompileInputs.cache
+C:\Users\ASUS Laptop\source\repos\Demo1129\Demo1129\obj\Debug\Demo1129.exe
+C:\Users\ASUS Laptop\source\repos\Demo1129\Demo1129\obj\Debug\Demo1129.pdb
